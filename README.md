@@ -1,4 +1,4 @@
-# shop-<!DOCTYPE html>
+# Fűbolt<!DOCTYPE html>
 <html>
 <head>
 <title>Tigyi András </title>
