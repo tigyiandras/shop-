@@ -1,10 +1,10 @@
 # shop-<!DOCTYPE html>
 <html>
 <head>
-<title>Fűbolt nuysziknak </title>
+<title>Tigyi András </title>
 </head>
 <body>
-
+ 
 <h1> Ez egy fűbolt </h1>
 <p>még mindig tele vagyunk fűvel </p>
 
