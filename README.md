@@ -1,7 +1,7 @@
 # shop-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Fűbolt nuysziknak </title>
 </head>
 <body>
 
